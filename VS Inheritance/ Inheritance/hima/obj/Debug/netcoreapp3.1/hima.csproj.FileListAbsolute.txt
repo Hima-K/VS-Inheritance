@@ -1,0 +1,13 @@
+/Users/hima/Desktop/VS/hima/hima/bin/Debug/netcoreapp3.1/hima.deps.json
+/Users/hima/Desktop/VS/hima/hima/bin/Debug/netcoreapp3.1/hima.runtimeconfig.json
+/Users/hima/Desktop/VS/hima/hima/bin/Debug/netcoreapp3.1/hima.runtimeconfig.dev.json
+/Users/hima/Desktop/VS/hima/hima/bin/Debug/netcoreapp3.1/hima.dll
+/Users/hima/Desktop/VS/hima/hima/bin/Debug/netcoreapp3.1/hima.pdb
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.AssemblyInfoInputs.cache
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.AssemblyInfo.cs
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.csproj.CoreCompileInputs.cache
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.dll
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.pdb
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.genruntimeconfig.cache
+/Users/hima/Desktop/VS/hima/hima/obj/Debug/netcoreapp3.1/hima.csproj.AssemblyReference.cache
